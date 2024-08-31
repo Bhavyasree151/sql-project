@@ -65,4 +65,3 @@ class_id (TEXT, FOREIGN KEY referencing class_details)
 SQL Code
 The SQL code for creating the above tables is provided in the accompanying SQL file.
 
-I hope this rewritten README file meets your requirements! Let me know if you need any further assistance.
